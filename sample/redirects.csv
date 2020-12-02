@@ -1,0 +1,5 @@
+source,destination,type
+/foo,/bar,301
+"/foo{,/**}",/bar,301
+/firebase/**,https://firebase.google.com/,302
+/firebase/.*,https://firebase.google.com/,302
