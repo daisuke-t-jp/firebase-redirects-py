@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# coding: UTF-8
+# Copyright 2020 Daisuke TONOSAKI
 
 import sys
 import os
