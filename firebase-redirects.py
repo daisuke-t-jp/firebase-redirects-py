@@ -57,7 +57,7 @@ def main():
         return
     
     
-    build_path =  os.path.join(args.build_path, BUILD_DIR)
+    build_path = os.path.join(args.build_path, BUILD_DIR)
 
     if os.path.isdir(build_path):
         shutil.rmtree(build_path)
